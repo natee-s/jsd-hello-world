@@ -229,6 +229,9 @@ body {
 /* Next participant */
 #participant-10 {
   background-color: lavender;
+  border: 3px solid rgb(240, 157, 240);
+  box-shadow: 0 4px 10px goldenrod;
+  border-radius: 15px;
 }
 #participant-10 .profile-photo {
   background-image: url("../images/jack-profile.jpg");
